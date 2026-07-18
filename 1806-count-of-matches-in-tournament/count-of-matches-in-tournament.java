@@ -7,9 +7,8 @@ class Solution {
                 n=n/2;
             }
             else{
-                sum+=n/2;
-                int r=n/2;
-                n=n-r;
+                sum+=(n-1)/2;
+                n=((n-1)/2)+1;
             }
         }
         return sum;
