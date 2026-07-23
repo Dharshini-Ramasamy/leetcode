@@ -5,10 +5,11 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             for(int j=i+1;j<nums.length;j++){
                 if(nums[i]==nums[j]){
-                    if(nums[i]>=0&&nums[j]>=0){
+                    if(nums[i]!=-1&&nums[j]!=-1){
                     count++;
                     nums[i]=-1;
                     nums[j]=-1;
+                    break;
                 }}
             }
         }
