@@ -1,0 +1,8 @@
+class Solution {
+    public int maxProduct(int[] nums) {
+        Arrays.sort(nums);
+        int pro=1;
+        pro*=(nums[nums.length-2]-1)*(nums[nums.length-1]-1);
+        return pro;
+    }
+}
