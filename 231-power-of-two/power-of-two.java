@@ -3,7 +3,7 @@ class Solution {
         if(n==1){
             return true;
         }
-        for(int i=0;i<=31;i++){
+        for(int i=0;i<31;i++){
             if(Math.pow(2,i)==n){
                 return true;
             }
