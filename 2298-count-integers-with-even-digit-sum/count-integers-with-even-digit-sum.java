@@ -1,18 +1,17 @@
 class Solution {
     public int countEven(int num) {
-        int count=0;
-        for(int i=1;i<=num;i++){
-            int sum=0;
-            int n=i;
-            while(n!=0){
-                int dig=n%10;
-                sum+=dig;
-                n/=10;
-            }
-            if(sum%2==0){
-                count++;
-            }
+        int sum=0;
+        int temp=num;
+        while(temp!=0){
+            int dig=temp%10;
+            sum+=dig;
+            temp/=10;
         }
-        return count;
+        if(sum%2==0){
+            return num/2;
+        }
+        else{
+            return (num-1)/2;
+        }
     }
 }
