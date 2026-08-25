@@ -1,4 +1,4 @@
- 🚀 Java DSA Grind — LeetCode Journal
+ **🚀 Java DSA Grind — LeetCode Journal**
 
 Hey there, and welcome! 👋
 This repo is where I log my ongoing journey through LeetCode challenges, all coded in Java. The idea is simple: sharpen my algorithmic thinking, deepen my grasp of core Data Structures & Algorithms concepts, and build a habit of steady, daily practice.
