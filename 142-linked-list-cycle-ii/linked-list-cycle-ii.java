@@ -28,8 +28,6 @@ public class Solution {
             current=current.next;
             slow=slow.next;
         }
-        
-        
-        return current;
+        return slow;
     }
 }
