@@ -7,7 +7,7 @@ class Solution {
             if(score[j]>score[i]){
                 count++;
             }
-          }
+        }
           if(count==1){
             arr[i]="Gold Medal";
           }
