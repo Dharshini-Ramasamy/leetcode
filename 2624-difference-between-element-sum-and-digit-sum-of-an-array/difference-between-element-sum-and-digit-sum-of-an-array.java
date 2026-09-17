@@ -1,17 +1,15 @@
-class Solution {
+public class Solution {
     public int differenceOfSum(int[] nums) {
-        int sum=0;
-        for(int i=0;i<nums.length;i++){
-            sum+=nums[i];
+        int totalSum = 0;
+        int digitSum = 0;
+
+        for (int num : nums) {
+            totalSum += num;
+ 
+            while (num > 0) {
+                digitSum += num % 10;
+                num /= 10;}
         }
-        int s=0;
-        for(int i=0;i<nums.length;i++){
-            while(nums[i]!=0){
-                int dig=nums[i]%10;
-                s+=dig;
-                nums[i]/=10;
-            }
-        }
-        return sum-s;
-    }
+
+        return totalSum - digitSum;}
 }
