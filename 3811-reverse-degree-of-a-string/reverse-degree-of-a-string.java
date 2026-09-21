@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<s.length();i++){
             int b=s.charAt(i)-97;
             int c=26-b;
-            sum+=arr[c]*(i+1);
+            sum+=c*(i+1);
         }
         return sum;
     }
