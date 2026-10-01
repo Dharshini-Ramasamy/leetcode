@@ -71,12 +71,14 @@ Drop a star to cheer on the journey!
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
@@ -87,4 +89,12 @@ Drop a star to cheer on the journey!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0155-min-stack) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
