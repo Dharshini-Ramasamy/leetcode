@@ -75,6 +75,7 @@ Drop a star to cheer on the journey!
 | [0844-backspace-string-compare](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [3174-clear-digits](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Drop a star to cheer on the journey!
 | [0844-backspace-string-compare](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [3174-clear-digits](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Drop a star to cheer on the journey!
 | ------- |
 | [0682-baseball-game](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/3174-clear-digits) |
 ## Array
 |  |
 | ------- |
