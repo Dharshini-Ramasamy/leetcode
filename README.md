@@ -109,4 +109,12 @@ Drop a star to cheer on the journey!
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0682-baseball-game) |
+## Math
+|  |
+| ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+## Enumeration
+|  |
+| ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 <!---LeetCode Topics End-->
