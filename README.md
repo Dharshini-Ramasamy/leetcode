@@ -76,10 +76,15 @@ Drop a star to cheer on the journey!
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
