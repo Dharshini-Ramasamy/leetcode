@@ -3,7 +3,7 @@ class Solution {
         if(num==0){
             return true;
         }
-        for(int i=0;i<num;i++){
+        for(int i=num/2;i<=num;i++){
             int temp=i;
             int rev=0;
             while(temp!=0){
