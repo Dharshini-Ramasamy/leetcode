@@ -113,8 +113,13 @@ Drop a star to cheer on the journey!
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Enumeration
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+## Number Theory
+|  |
+| ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
