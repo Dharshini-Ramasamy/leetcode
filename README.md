@@ -109,6 +109,7 @@ Drop a star to cheer on the journey!
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0682-baseball-game) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Drop a star to cheer on the journey!
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
