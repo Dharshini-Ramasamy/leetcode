@@ -109,6 +109,7 @@ Drop a star to cheer on the journey!
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0682-baseball-game) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Math
 |  |
@@ -124,4 +125,8 @@ Drop a star to cheer on the journey!
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Dharshini-Ramasamy/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
